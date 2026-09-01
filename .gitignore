@@ -1,0 +1,19 @@
+# Prolog
+*.pl~
+*.swp
+*.swo
+*.o
+*.so
+
+# SWI-Prolog
+.swipl-xpce/
+*.exe
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+.env
